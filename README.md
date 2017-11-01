@@ -1,2 +1,2 @@
 # particles-swarm-optimization
-PSO Algorithm implemented in Python (Still in development)
+Generic python implementation for PSO Algorithm (Sphere function as default)
